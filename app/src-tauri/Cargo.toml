@@ -1,5 +1,5 @@
 [package]
-name = "dahara-overlay"
+name = "dahara-overlay-browser"
 version = "0.1.0"
 description = "Dahara Overlay App"
 authors = ["Dahara"]
